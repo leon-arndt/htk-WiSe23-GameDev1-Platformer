@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5931134789349008692}
   - component: {fileID: 2119026332182065120}
   - component: {fileID: 8751981063385002039}
+  - component: {fileID: 8133972814836177472}
   m_Layer: 0
   m_Name: Pickup
   m_TagString: Untagged
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: -535386276, guid: 0e11dec02cbe848cbb8ed7a07bca5997, type: 3}
   m_Color: {r: 1, g: 0.85487294, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -154,3 +155,24 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 50da579f9d5fd45938004eaf3cf91730, type: 2}
+--- !u!95 &8133972814836177472
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2975073024438365533}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a6823435e052a41a581407b426781e5d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
