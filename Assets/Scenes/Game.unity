@@ -954,7 +954,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ae04a35a85d5b4eddae1e3f72712a8c8, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 0c495b627054c4e1182b3fd2f14e178b, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.592
   m_Pitch: 1
@@ -14083,26 +14083,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
-    - target: {fileID: 2212505298346091509, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: orthographic size
-      value: 8.181818
-      objectReference: {fileID: 0}
-    - target: {fileID: 2212505298346091509, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_NormalizedViewPortRect.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2212505298346091509, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_NormalizedViewPortRect.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2212505298346091509, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_NormalizedViewPortRect.width
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2212505298346091509, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_NormalizedViewPortRect.height
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2213980827724754173, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1
@@ -14142,22 +14122,6 @@ PrefabInstance:
     - target: {fileID: 2213980827724754173, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4534627248994593483, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 18
-      objectReference: {fileID: 0}
-    - target: {fileID: 8839435347895500269, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_AssetsPPU
-      value: 22
-      objectReference: {fileID: 0}
-    - target: {fileID: 8839435347895500269, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_RefResolutionX
-      value: 640
-      objectReference: {fileID: 0}
-    - target: {fileID: 8839435347895500269, guid: e50e1306690b64ab584cc5bd08657dbc, type: 3}
-      propertyPath: m_RefResolutionY
-      value: 360
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
